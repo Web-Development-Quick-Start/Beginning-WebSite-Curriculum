@@ -22,19 +22,23 @@ gimp is basically foss photoshop, and it's really good
 
 dl an image and open with gimp
 
-#### 3. resizing
+#### 3. imaging-artfulness
 
 just three steps to prep image for web:
 1. crop
 2. dimensions
 3. scale
 
+##### Crop
 
-crop the image
+crop the image with "shift+c"
+
+##### Resize
 
 resize the image, notice the linkage
 resize the canvas
 
+##### Scale
 once the right aspect ratio is achieved, scale the image to the right size/resolution.
 (most templates tell you the this, e.g. 700pixels by 300 pixels)
 
