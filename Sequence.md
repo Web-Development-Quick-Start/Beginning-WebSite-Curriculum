@@ -6,11 +6,11 @@ Normally classes take weeks.
 In the next hour you make a website, for free, that has all the potential of a css/html/javascript website.
 
 On the way you'll learn how to use vim for quick copy-pasty-mode as well as typey-mode, 
-GIMP for resizing images, and git for putting your sites with the internetz.
+GIMP for resizing images, and git-github for publishing your sites to the internetz.
 
 ## Project 1 -- Project Portfolio:
 
-### Gimp for photo editing
+### 1. dl Gimp photo editor
 
 first let's download gimp:
 
@@ -18,23 +18,30 @@ first let's download gimp:
 
 gimp is basically foss photoshop, and it's really good
 
-#### get an image from google images
+#### 2. grab an image from google images
 
-#### layers
+dl an image and open with gimp
 
-make a new layer -- foreground color
-change which layer is above which
-change opacity
+#### 3. resizing
 
-#### resizing
+just three steps to prep image for web:
+1. crop
+2. dimensions
+3. scale
 
-crop the image -- then hit undo
+
+crop the image
+
 resize the image, notice the linkage
 resize the canvas
 
+once the right aspect ratio is achieved, scale the image to the right size/resolution.
+(most templates tell you the this, e.g. 700pixels by 300 pixels)
+
 ### start a github repo with your username (or org name)
 
-urUsername.github.io (e.g. if your username was pickachu, then it would be pickachu.gihub.io)
+YourUsername.github.io (e.g. if your username was pickachu, then it would be pickachu.gihub.io)
+init with a readme so that you can clone it right away.
 
 ### clone the repo on your compy
 
@@ -43,7 +50,7 @@ then type in `git clone` and paste that with cntl+shift+v
 
 You might get an error, see if it gives you a hint on what to apt get 
 
-you should type ls, and you'll find the username.github.io
+you should type ls, and you'll find the username.github.io in your directory
 
 ### template
 
